@@ -36,7 +36,6 @@ This project is an end-to-end Power BI dashboard built using CRM and FinTech dat
 - Forecasting
 
 ## Files Included
-
 - `CRM & Fintech dashboard.pbix` – Power BI dashboard file
 - `CRM & Fintech dashboard.pdf` – PDF export of the dashboard
 - `fintech_crm_large_dataset project 2.xlsx` – Source dataset
@@ -46,9 +45,7 @@ This project is an end-to-end Power BI dashboard built using CRM and FinTech dat
   - `Transaction_Analytics.jpeg`
   - `Lead_Analytics.jpeg`
   - `Forecast_Insights.jpeg`
-- CRM_FinTech_Dashboard.pbix
-- Dataset.xlsx
-- Dashboard Screenshots
+
 
 ## 👨‍💻 Author
 **Sairam Jeejula**
