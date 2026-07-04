@@ -46,6 +46,5 @@ This project is an end-to-end Power BI dashboard built using CRM and FinTech dat
   - `Lead_Analytics.jpeg`
   - `Forecast_Insights.jpeg`
 
-
 ## 👨‍💻 Author
 **Sairam Jeejula**
