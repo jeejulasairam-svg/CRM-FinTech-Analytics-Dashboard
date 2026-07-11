@@ -3,13 +3,49 @@
 ## 📌 Project Overview
 This project is an end-to-end Power BI dashboard built using CRM and FinTech data. It provides interactive insights into customer behavior, CRM lead management, financial transactions, revenue trends, and business forecasting.
 
+## 📷 Dashboard Preview
+
+### Executive Overview
+
+
+![Executive Overview](Executive_dashboard.jpeg)
+
+
+
+### Customer Analytics
+
+
+![Customer Analytics](Customer_Analytics.jpeg)
+
+
+
+### CRM Lead Analytics
+
+
+![CRM Lead Analytics](Lead_Analytics.jpeg)
+
+
+
+### FinTech / Transaction Analytics
+
+
+![Transaction Analytics](Transaction_Analytics.jpeg)
+
+
+
+### Forecast & Business Insights
+
+
+![Forecast & Insights](Forecast_Insights.jpeg)
+
+
 
 ## 📊 Dashboard Pages
-- Executive Overview(Executive_dashboard.jpeg)
-- Customer Analytics(Customer_Analytics.jpeg)
-- CRM Analytics(Lead_Analytics.jpeg)
-- FinTech Analytics(Transaction_Analytics.jpeg)
-- Forecast & Business Insights(Forecast_Insights.jpeg)
+- Executive Overview
+- Customer Analytics
+- CRM Analytics
+- FinTech Analytics
+- Forecast & Business Insights
 
 ## 🚀 Key Features
 - Interactive KPI Cards
@@ -36,16 +72,11 @@ This project is an end-to-end Power BI dashboard built using CRM and FinTech dat
 - Business Intelligence
 - Forecasting
 
-## Files Included
+## 📁 Files Included
 - `CRM & Fintech dashboard.pbix` – Power BI dashboard file
 - `CRM & Fintech dashboard.pdf` – PDF export of the dashboard
 - `fintech_crm_large_dataset project 2.xlsx` – Source dataset
-- Screenshots:
-  - `Executive_dashboard.jpeg`
-  - `Customer_Analytics.jpeg`
-  - `Transaction_Analytics.jpeg`
-  - `Lead_Analytics.jpeg`
-  - `Forecast_Insights.jpeg`
+- Dashboard screenshots (JPEG)
 
 ## 👨‍💻 Author
 **Sairam Jeejula**
